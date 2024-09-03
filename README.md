@@ -2,14 +2,6 @@
 
 Welcome to the Basic Portfolio project! This is a simple and clean portfolio template created using HTML, CSS, and minimal JavaScript. It can be easily customized to showcase your own projects, skills, and experiences. You can view the live demo [here](https://shobhittomer.github.io/Basic_Portfolio/).
 
-## Table of Contents
-
-- [Features](#features)
-- [Usage](#usage)
-- [Customization](#customization)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 
 - Clean and modern design
@@ -45,10 +37,5 @@ Feel free to use this portfolio template to create your own personal portfolio. 
 
 - Open `js/script.js` to add or modify any JavaScript functionality.
 - Currently, JavaScript is used minimally. Feel free to add more interactivity if needed.
-
-## License
-
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 
 Thank you for using the Basic Portfolio template. I hope it helps you create a beautiful and professional online presence!
